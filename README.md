@@ -9,7 +9,7 @@ Dashboard interativo para análise e modelagem de preços de venda de imóveis r
 O projeto simula um dataset realista de **15.000 imóveis** distribuídos em 25 bairros do Rio de Janeiro, com preços por m² calibrados por região (de R$ 3.500/m² em Campo Grande a R$ 22.000/m² no Leblon). A partir desse dataset, é executado um pipeline completo de ciência de dados:
 
 - Análise exploratória e distribuições
-- Feature engineering com variáveis geoespaciais (distância à praia, clustering, pressão de vizinhança)
+- Feature engineering com variáveis geoespaciais (distância à praia, clustering, pressão de preços da vizinhança)
 - Modelagem preditiva com **LightGBM** e **Ridge** como baseline
 - Interpretabilidade com **SHAP**
 - Visualização interativa via **Streamlit**
