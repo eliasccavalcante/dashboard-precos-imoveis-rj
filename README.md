@@ -1,7 +1,7 @@
 # Dashboard de Preços de Imóveis — Rio de Janeiro
 
 Dashboard interativo para análise e modelagem de preços de venda de imóveis residenciais no Rio de Janeiro, construído com dados simulados e técnicas de machine learning interpretável.
-
+https://dashboard-precos-imoveis-rj.streamlit.app/
 ---
 
 ## Visão geral
